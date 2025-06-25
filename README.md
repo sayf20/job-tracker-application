@@ -16,9 +16,8 @@ A modern, feature-rich job application tracker to simplify your job search proce
 ---
 
 ## 🚀 Live Demo
-> _Deploy your app and add the link below!_
 
-[Live Demo](https://your-live-demo-link.com)
+[Live Demo](https://job-tracker-application-9ah59ab9j-sayf20s-projects.vercel.app)
 
 ---
 
